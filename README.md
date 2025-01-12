@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tonmoy Ahmed Dhroubo</h1>
-<h3 align="center">A passionate full-stack developer specialized in ASP.NET , Angular and ReactJS.</h3>
+<h3 align="center">A passionate backend developer specialized in Spring Boot and Node.Js .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy-dhroubo&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy-dhroubo" /> </p>
 
